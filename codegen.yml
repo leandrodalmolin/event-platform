@@ -1,4 +1,4 @@
-schema: https://api-eu-west-2.graphcms.com/v2/cl4oq20uo0r0401z432qz7yfy/master
+schema: https://api-eu-west-2.hygraph.com/v2/cl4oq20uo0r0401z432qz7yfy/master
 
 documents: './src/graphql/**/*.graphql'
 
